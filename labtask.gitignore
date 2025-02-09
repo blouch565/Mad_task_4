@@ -1,0 +1,9 @@
+# Ignore build and IDE-specific files
+*.iml
+.gradle
+/local.properties
+/.idea/
+/build/
+/captures/
+/outputs/
+/app/release/
